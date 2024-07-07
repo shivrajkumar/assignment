@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/shivrajkumar/Sites/MobileRNAssignment/logs/.1ea41aa2c3ad1ef20a13b8904337a5189b457cf6-audit.json",
+    "files": [
+        {
+            "date": 1720347988720,
+            "name": "/Users/shivrajkumar/Sites/MobileRNAssignment/logs/keplerCliNative-2024-07-07.log",
+            "hash": "40dcddd9b0855d3026e8332d598d58c8"
+        }
+    ]
+}

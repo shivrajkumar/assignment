@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/shivrajkumar/Sites/MobileRNAssignment/logs/.4b6cd303a91928179a67c1607f056e661553e27b-audit.json",
+    "files": [
+        {
+            "date": 1720347988718,
+            "name": "/Users/shivrajkumar/Sites/MobileRNAssignment/logs/error-2024-07-07.log",
+            "hash": "dd0f43aa5a6fc2c0b630bf3d253d63fb"
+        }
+    ]
+}
